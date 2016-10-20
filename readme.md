@@ -1,0 +1,2 @@
+# NVDA Hauptwerk enhancements
+This add-on contains enhancements to improve the accessibility of the [Hauptwerk virtual pipe organ software](http://www.hauptwerk.com). The only thing it does until now is reading tree views, such as in the window to set midi assignments for stop selection, correctly.
